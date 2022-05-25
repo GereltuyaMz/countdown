@@ -11,6 +11,7 @@ module.exports = {
       darkBlue: 'hsl(236, 21%, 26%)',
       deepDarkBlue: 'hsl(235, 16%, 14%)',
       black: 'hsl(234, 17%, 12%)',
+      icon: '#8385A9',
     },
     extend: {
       animation: {
